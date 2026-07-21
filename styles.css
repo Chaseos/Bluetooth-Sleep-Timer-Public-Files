@@ -93,13 +93,9 @@ main,
 }
 
 .brand-mark {
-  width: 1.9rem;
-  aspect-ratio: 1;
-  border: 1px solid rgb(80 246 237 / 55%);
-  border-radius: 50%;
-  background:
-    radial-gradient(circle at 50% 50%, transparent 32%, rgb(255 255 255 / 34%) 34% 38%, transparent 40%),
-    linear-gradient(145deg, #50f6ed, #079fe8 70%);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.55rem;
   box-shadow: 0 0 24px rgb(7 159 232 / 32%);
 }
 
