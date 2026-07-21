@@ -95,8 +95,7 @@ main,
 .brand-mark {
   width: 2rem;
   height: 2rem;
-  border-radius: 0.55rem;
-  box-shadow: 0 0 24px rgb(7 159 232 / 32%);
+  object-fit: contain;
 }
 
 nav {
